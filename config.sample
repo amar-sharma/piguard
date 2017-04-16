@@ -1,0 +1,6 @@
+[SMTP]
+  Server: smtp.mailgun.org
+  User: user@sandboxeamil.mailgun.org
+  Pass: yourpassword
+  MailFrom: bar@foo.com
+  MailTo: foo@bar.com
