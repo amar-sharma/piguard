@@ -1,0 +1,16 @@
+[SMTP]
+Server=smtp.mailgun.org
+User=user@sandboxblahblahblah.mailgun.org
+Pass=supersecret
+MailFrom=user@rpi
+MailTo=user@domain.whatever
+[Camera]
+Resolution=800x600
+Brightness=80
+[PIR]
+BounceTime=15
+[Schedule]
+OnWeekdays=True
+OnWeekends=False
+StartTime=10:00
+EndTime=23:00
